@@ -11,6 +11,14 @@
 - Keep line length under 120 characters
 - Use meaningful variable and method names that express intent
 
+## Clean Code Principles
+- **Avoid redundant comments**: Code should be self-explanatory through clear naming
+- **Remove obvious comments**: Don't comment what the code clearly shows
+- **Focus on WHY, not WHAT**: Comments should explain reasoning, not mechanics
+- **Keep methods concise**: Single responsibility, typically under 20 lines
+- **Eliminate dead code**: Remove unused imports, variables, and methods
+- **Use descriptive names**: Prefer `calculateTotalPrice()` over `calc()` with comments
+
 ## Documentation Requirements
 - All public classes must have JavaDoc with class purpose
 - All public methods must have JavaDoc with:

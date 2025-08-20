@@ -15,11 +15,14 @@
 
 2. **During Implementation**
    - Follow existing code patterns and conventions
+   - Write clean, self-documenting code with meaningful names
+   - Remove redundant comments and dead code
    - Update tests alongside code changes
    - Document significant decisions in Memory Bank
    - Run relevant tests frequently
 
 3. **After Implementation**
+   - Review code for unnecessary comments and cleanup opportunities
    - Run full test suite for affected modules
    - Update Memory Bank with new patterns or learnings
    - Document any architectural changes
