@@ -1,0 +1,21 @@
+# Feature-specific investigation documents
+# These are temporary development files that should not be committed
+memory-bank/features/feature-*.md
+memory-bank/features/enhancement-*.md
+memory-bank/features/investigation-*.md
+
+# Keep the template and README files
+!memory-bank/features/feature-template.md
+!memory-bank/features/README.md
+
+# Active context - session-specific state that shouldn't be committed
+memory-bank/activeContext.md
+
+# Temporary development notes and drafts
+*.draft.md
+*.temp.md
+*.wip.md
+
+# Personal development notes
+personal-notes/
+dev-scratch/
