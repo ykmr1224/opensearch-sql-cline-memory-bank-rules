@@ -33,6 +33,7 @@ Memory resets between sessions. Memory Bank provides complete project context an
 ## Updates
 Update Memory Bank when:
 - Discovering new project patterns
+- Starting working on new feature
 - After significant changes
 - User requests "update memory bank"
 - Context needs clarification
